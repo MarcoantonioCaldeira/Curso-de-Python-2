@@ -6,7 +6,7 @@ if nome and idade:
     print(f'Seu nome é {nome}')
     print(f'Seu nome invertido é {nome[::-1]}') #função para mostrar nome invertido
 
-    if ' ' in nome: #Ira verificar se o nome contem ou não espaços
+    if ' ' in nome:#Ira verificar se o nome contem ou não espaços
         print('Seu nome contém espaços')
     else:
         print('Seu nome NÃO contém espaços')
