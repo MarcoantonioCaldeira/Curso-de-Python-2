@@ -8,5 +8,6 @@
 
 <h2>Quais os objetivos principais do curso?</h2>
 
-
+<p>Ensinar Python do basico ao avançado para quem está inciando na
+area de programação e também para quem já é mais experiente</p>
 
