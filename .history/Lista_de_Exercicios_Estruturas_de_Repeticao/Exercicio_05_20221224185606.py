@@ -11,8 +11,8 @@ while cont < quant:
     cont += 1
 
     if cont == 1:
-        maior = num
-        menor = num
+        maior == num
+        menor == num
 
     else:
         if num > maior:

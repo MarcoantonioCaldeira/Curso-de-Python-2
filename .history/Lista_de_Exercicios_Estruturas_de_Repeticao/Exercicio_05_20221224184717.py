@@ -1,6 +1,8 @@
 quant = int(input("Digite a quantidade de elementos: "))
 
+
 cont = 0
+
 maior = 0
 menor = 0
 
@@ -10,15 +12,15 @@ while cont < quant:
     print(num)
     cont += 1
 
-    if cont == 1:
-        maior = num
-        menor = num
+    if num == 1:
+        maior == num
+        menor == num
 
     else:
         if num > maior:
-            maior = num
+            maior == num
 
         if num < menor:
-            menor = num
+            menor == num
 
-print("Maior numero: {} , Menor numero: {}".format(maior, menor))
+print("Maior numero: {} \n Menor numero: {}".format(maior, menor))
