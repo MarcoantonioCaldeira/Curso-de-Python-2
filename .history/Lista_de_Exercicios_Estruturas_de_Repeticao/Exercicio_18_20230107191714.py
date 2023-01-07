@@ -21,11 +21,3 @@ print("A media de idade da populacao eh: ", media_idade)
 if media_idade < 25 and media_idade > 0:
 
     print("A população eh jovem!!!")
-
-elif media_idade > 26 and media_idade < 60:
-
-    print("A população eh adulta!!!")
-
-elif media_idade > 60:
-
-    print("A populacao eh idosa!!!")
